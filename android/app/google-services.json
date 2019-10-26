@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "395439462881",
+    "firebase_url": "https://azuralabs-flutter-training.firebaseio.com",
+    "project_id": "azuralabs-flutter-training",
+    "storage_bucket": "azuralabs-flutter-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395439462881:android:7551b2a30933267ee79aa0",
+        "android_client_info": {
+          "package_name": "id.azuralabs.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395439462881-r0ejth2k87gu94od6o08dcdtu1tshd9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfcUaCB6y3OX-TVUcmbp5IrLJMOwDp5BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395439462881-r0ejth2k87gu94od6o08dcdtu1tshd9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
